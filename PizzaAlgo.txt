@@ -1,0 +1,5 @@
+Find Restaurant
+Decide what pizza you want
+Call restaurant, order, and pay
+wait until pizza is delivered
+dig in
