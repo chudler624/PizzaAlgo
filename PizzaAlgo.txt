@@ -2,4 +2,6 @@ Find Restaurant
 Decide what pizza you want
 Call restaurant, order, and pay
 wait until pizza is delivered
+give delivery person a tip
+get plates and napkins
 dig in
